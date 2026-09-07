@@ -6,9 +6,8 @@ The player chooses Stone, Paper, or Scissors, and the computer randomly generate
 
 ## 🎮 Live Demo
 
-[Play the Game](#)
+[Play the Game](https://sahil-charde.github.io/Stone-Paper-Scissor_game/)
 
-> Replace `#` with your GitHub Pages live demo link after deploying the project.
 
 ## ✨ Features
 
