@@ -19,7 +19,6 @@ The player chooses Stone, Paper, or Scissors, and the computer randomly generate
 * Draw detection
 * Interactive UI
 * Hover effects on choices
-* Responsive viewport support
 
 ## 🛠️ Technologies Used
 
@@ -60,11 +59,8 @@ If both the player and computer choose the same option, the game is a **draw**.
 
 ## 📸 Screenshot
 
-Add a screenshot of your game here:
+<img width="1026" height="639" alt="app_screenshot" src="https://github.com/user-attachments/assets/1e9d2c8d-393c-4cd0-9081-9b3e77f1a239" />
 
-```markdown
-![Rock Paper Scissors Game](screenshot.png)
-```
 
 ## 🧠 What I Learned
 
@@ -79,20 +75,3 @@ While building this project, I practiced:
 * CSS Flexbox
 * Basic UI interactions
 
-## 🚀 Future Improvements
-
-Some features that can be added in future:
-
-* Best of 5 game mode
-* Reset button
-* Game animations
-* Sound effects
-* Mobile-friendly improvements
-* Display player's and computer's selected choices
-* Dark/Light mode
-
-## 👨‍💻 Author
-
-**Sahil**
-
-Built with ❤️ using HTML, CSS & JavaScript.
